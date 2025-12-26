@@ -1,6 +1,6 @@
 # Statistical Inference Analysis to predict newborn weight
 
-This repository contains an inferential statistics project in **R** with the goal of building, validating, and interpreting a statistical model capable of **predicting newborn weight** from collected clinical variables, such as maternal, pregnancy, and newborn measurements. The analysis combines classical hypothesis testing with multiple linear regression, model selection, diagnostics, and scenario-based prediction. The full project is contained in the [`newborn_statistical_inference.Rmd`](https://github.com/lgucrl/newborn-statistical-inference-analysis/blob/main/newborn_statistical_inference.Rmd) document and the HTML output can be visulized in this [Github Page](https://lgucrl.github.io/statistical-inference-analysis-newborn/).
+This repository contains an inferential statistics project in **R** with the goal of building, validating, and interpreting a statistical model capable of **predicting newborn weight** from collected clinical variables, such as maternal, pregnancy, and newborn measurements. The analysis combines classical hypothesis testing with multiple linear regression, model selection, diagnostics, and scenario-based prediction. The full project is contained in the [`newborn_statistical_inference.Rmd`](https://github.com/lgucrl/newborn-statistical-inference-analysis/blob/main/newborn_statistical_inference.Rmd) document and the HTML output can be visulized in this [Github Page](https://lgucrl.github.io/newborn-statistical-inference-analysis/).
 
 
 
